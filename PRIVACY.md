@@ -1,5 +1,7 @@
 # Sui Balance 隐私政策
 
+[English version](PRIVACY_EN.md)
+
 更新日期：2026-11-04
 
 Sui Balance 的唯一用途是查询用户指定的 Sui 主网地址或对象 ID 的链上币种余额。
